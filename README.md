@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Angular**
 
-- 👨‍💻 All of my projects are available at [armelangton.com.github.io](armelangton.github.io)
+- 👨‍💻 Checkout my portfolio at [armelangton.com.github.io](armelangton.github.io)
 
 - 📫 How to reach me **linkedIn**
 
